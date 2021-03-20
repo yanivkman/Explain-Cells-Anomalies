@@ -6,4 +6,4 @@ INDECIES_ARRAY = ['Plate', LABEL_FIELD, 'Metadata_broad_sample', 'Image_Metadata
 S_STD = 'Std'
 S_MinMax = 'MinMax'
 
-csv_dir_path = 'C:/Users/Yaniv/Documents/thesis/AnomalyDetectionInCells/scripts_to_get_data/data/csvs/'
+CSV_DIR_PATH = 'C:/Users/Yaniv/Documents/thesis/AnomalyDetectionInCells/scripts_to_get_data/data/csvs/'
